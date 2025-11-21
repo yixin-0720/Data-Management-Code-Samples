@@ -1,3 +1,4 @@
+Note: This folder only includes two samples from this project to help reviewers learn about our workflow quickly.
 ---
 # The Impact of Media Coverage on Candidate Favorability: A Custom-Built Dictionary Approach to China-Related News in the 2024 U.S. Presidential Election
 
