@@ -1,5 +1,6 @@
-# Media Analysis
-## NYtimes Scraper and Topic Modeling. Language: Python.
+## Media Analysis
+- **NYtimes Scraper and Topic Modeling.**
+- **Language: Python.**
 
 # Event Study
 ## Quarterly estimation of effects of lockdowns policies during COVID-19 on entrepreneurial sentiment. Language: Stata.
