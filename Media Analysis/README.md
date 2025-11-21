@@ -156,9 +156,3 @@ See `requirements.txt` for a full list of dependencies.
 - **Pengrui Su**: Data collection(Download data),Data cleaning,data discription,Regression.
 
 ---
-
-## Resources
-- **In-class Presentation Slides**: https://github.com/macs30112-winter25/final-project-super-legend-decoders/blob/main/in_class_slides.pdf
-- **Updated Presentation Slides**: https://github.com/macs30112-winter25/final-project-super-legend-decoders/blob/4313e08cfc455c3aaef937f9ab27d99ff427edc1/Final%20slide.pdf
-- **Project Video**:https://drive.google.com/file/d/1A5JgNpgSsFmpb59hlSTfUjk42rezUSUG/view?usp=share_link
----
