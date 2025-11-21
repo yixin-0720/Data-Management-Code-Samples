@@ -1,4 +1,4 @@
-Note: This folder only includes two samples from this project to help reviewers learn about our workflow quickly.
+**Note: This folder only includes two samples from this project to help reviewers learn about our workflow quickly.**
 
 ---
 
